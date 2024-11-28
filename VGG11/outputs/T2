@@ -1,0 +1,182 @@
+Last login: Mon Nov 25 19:28:32 on ttys002
+stevenzrihen@Els-MacBook-Pro ~ % python3.11 /Users/stevenzrihen/Downloads/vg11_experiment.py 
+Files already downloaded and verified
+Files already downloaded and verified
+
+Experiment 2: Adding Layers
+
+Starting Training...
+
+Epoch [1/10] in progress...
+Epoch [1/10], Batch [0/782], Loss: 2.3226
+Epoch [1/10], Batch [100/782], Loss: 1.4449
+Epoch [1/10], Batch [200/782], Loss: 1.2742
+Epoch [1/10], Batch [300/782], Loss: 1.1904
+Epoch [1/10], Batch [400/782], Loss: 1.3471
+Epoch [1/10], Batch [500/782], Loss: 1.3274
+Epoch [1/10], Batch [600/782], Loss: 1.0843
+Epoch [1/10], Batch [700/782], Loss: 0.8211
+Epoch [1/10] Completed. Average Loss: 1.2858
+
+Epoch [2/10] in progress...
+Epoch [2/10], Batch [0/782], Loss: 1.2354
+Epoch [2/10], Batch [100/782], Loss: 0.9070
+Epoch [2/10], Batch [200/782], Loss: 0.9105
+Epoch [2/10], Batch [300/782], Loss: 0.8577
+Epoch [2/10], Batch [400/782], Loss: 0.8714
+Epoch [2/10], Batch [500/782], Loss: 1.0361
+Epoch [2/10], Batch [600/782], Loss: 0.7492
+Epoch [2/10], Batch [700/782], Loss: 0.9801
+Epoch [2/10] Completed. Average Loss: 0.8350
+
+Epoch [3/10] in progress...
+Epoch [3/10], Batch [0/782], Loss: 0.7314
+Epoch [3/10], Batch [100/782], Loss: 0.6744
+Epoch [3/10], Batch [200/782], Loss: 0.6474
+Epoch [3/10], Batch [300/782], Loss: 0.6421
+Epoch [3/10], Batch [400/782], Loss: 0.6194
+Epoch [3/10], Batch [500/782], Loss: 0.6368
+Epoch [3/10], Batch [600/782], Loss: 0.4701
+Epoch [3/10], Batch [700/782], Loss: 0.6795
+Epoch [3/10] Completed. Average Loss: 0.6439
+
+Epoch [4/10] in progress...
+Epoch [4/10], Batch [0/782], Loss: 0.6292
+Epoch [4/10], Batch [100/782], Loss: 0.5037
+Epoch [4/10], Batch [200/782], Loss: 0.4969
+Epoch [4/10], Batch [300/782], Loss: 0.4181
+Epoch [4/10], Batch [400/782], Loss: 0.4897
+Epoch [4/10], Batch [500/782], Loss: 0.5280
+Epoch [4/10], Batch [600/782], Loss: 0.7619
+Epoch [4/10], Batch [700/782], Loss: 0.3942
+Epoch [4/10] Completed. Average Loss: 0.5267
+
+Epoch [5/10] in progress...
+Epoch [5/10], Batch [0/782], Loss: 0.3626
+Epoch [5/10], Batch [100/782], Loss: 0.4695
+Epoch [5/10], Batch [200/782], Loss: 0.5093
+Epoch [5/10], Batch [300/782], Loss: 0.4126
+Epoch [5/10], Batch [400/782], Loss: 0.4756
+Epoch [5/10], Batch [500/782], Loss: 0.4373
+Epoch [5/10], Batch [600/782], Loss: 0.2269
+Epoch [5/10], Batch [700/782], Loss: 0.5122
+Epoch [5/10] Completed. Average Loss: 0.4250
+
+Epoch [6/10] in progress...
+Epoch [6/10], Batch [0/782], Loss: 0.3323
+Epoch [6/10], Batch [100/782], Loss: 0.3044
+Epoch [6/10], Batch [200/782], Loss: 0.4362
+Epoch [6/10], Batch [300/782], Loss: 0.3351
+Epoch [6/10], Batch [400/782], Loss: 0.5697
+Epoch [6/10], Batch [500/782], Loss: 0.4592
+Epoch [6/10], Batch [600/782], Loss: 0.3983
+Epoch [6/10], Batch [700/782], Loss: 0.4993
+Epoch [6/10] Completed. Average Loss: 0.3438
+
+Epoch [7/10] in progress...
+Epoch [7/10], Batch [0/782], Loss: 0.3118
+Epoch [7/10], Batch [100/782], Loss: 0.3284
+Epoch [7/10], Batch [200/782], Loss: 0.2567
+Epoch [7/10], Batch [300/782], Loss: 0.1621
+Epoch [7/10], Batch [400/782], Loss: 0.2809
+Epoch [7/10], Batch [500/782], Loss: 0.3466
+Epoch [7/10], Batch [600/782], Loss: 0.3130
+Epoch [7/10], Batch [700/782], Loss: 0.4658
+Epoch [7/10] Completed. Average Loss: 0.2701
+
+Epoch [8/10] in progress...
+Epoch [8/10], Batch [0/782], Loss: 0.3323
+Epoch [8/10], Batch [100/782], Loss: 0.1644
+Epoch [8/10], Batch [200/782], Loss: 0.2780
+Epoch [8/10], Batch [300/782], Loss: 0.2662
+Epoch [8/10], Batch [400/782], Loss: 0.2062
+Epoch [8/10], Batch [500/782], Loss: 0.2836
+Epoch [8/10], Batch [600/782], Loss: 0.2707
+Epoch [8/10], Batch [700/782], Loss: 0.2450
+Epoch [8/10] Completed. Average Loss: 0.2224
+
+Epoch [9/10] in progress...
+Epoch [9/10], Batch [0/782], Loss: 0.2554
+Epoch [9/10], Batch [100/782], Loss: 0.1467
+Epoch [9/10], Batch [200/782], Loss: 0.2657
+Epoch [9/10], Batch [300/782], Loss: 0.1234
+Epoch [9/10], Batch [400/782], Loss: 0.1227
+Epoch [9/10], Batch [500/782], Loss: 0.0863
+Epoch [9/10], Batch [600/782], Loss: 0.1836
+Epoch [9/10], Batch [700/782], Loss: 0.1158
+Epoch [9/10] Completed. Average Loss: 0.1750
+
+Epoch [10/10] in progress...
+Epoch [10/10], Batch [0/782], Loss: 0.2087
+Epoch [10/10], Batch [100/782], Loss: 0.1825
+Epoch [10/10], Batch [200/782], Loss: 0.0986
+Epoch [10/10], Batch [300/782], Loss: 0.2069
+Epoch [10/10], Batch [400/782], Loss: 0.1158
+Epoch [10/10], Batch [500/782], Loss: 0.1110
+Epoch [10/10], Batch [600/782], Loss: 0.2473
+Epoch [10/10], Batch [700/782], Loss: 0.2324
+Epoch [10/10] Completed. Average Loss: 0.1410
+
+Starting Evaluation...
+Evaluating Batch [0/157]...
+Evaluating Batch [50/157]...
+Evaluating Batch [100/157]...
+Evaluating Batch [150/157]...
+
+Evaluation Results:
+Accuracy: 0.82
+Precision: 0.82
+Recall: 0.82
+F1 Score: 0.82
+Confusion Matrix:
+[[840   4  34  23  13   4   7  13  34  28]
+ [ 17 834   1   2   2   1   2   2  13 126]
+ [ 43   2 686  56  70  62  42  29   0  10]
+ [ 10   3  23 667  37 153  35  36   6  30]
+ [  6   2  33  53 788  25  18  70   2   3]
+ [  3   1   7 128  25 781  15  29   2   9]
+ [  4   2  15  50  26   8 881   3   2   9]
+ [  3   0   6  28  16  34   5 898   0  10]
+ [ 43   8   8  11   4   1   4   8 881  32]
+ [ 19  11   2   3   1   0   1   6   9 948]]
+
+Experiment 2: Removing Layers
+
+Starting Training...
+
+Epoch [1/10] in progress...
+Traceback (most recent call last):
+  File "/Users/stevenzrihen/Downloads/vg11_experiment.py", line 162, in <module>
+    train_and_evaluate(model_with_removed_layer, trainloader, testloader)
+  File "/Users/stevenzrihen/Downloads/vg11_experiment.py", line 96, in train_and_evaluate
+    outputs = model(images)
+              ^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/torch/nn/modules/module.py", line 1511, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/torch/nn/modules/module.py", line 1520, in _call_impl
+    return forward_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/stevenzrihen/Downloads/vg11_experiment.py", line 79, in forward
+    x = self.classifier(x)
+        ^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/torch/nn/modules/module.py", line 1511, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/torch/nn/modules/module.py", line 1520, in _call_impl
+    return forward_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/torch/nn/modules/container.py", line 217, in forward
+    input = module(input)
+            ^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/torch/nn/modules/module.py", line 1511, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/torch/nn/modules/module.py", line 1520, in _call_impl
+    return forward_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/torch/nn/modules/linear.py", line 116, in forward
+    return F.linear(input, self.weight, self.bias)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+RuntimeError: mat1 and mat2 shapes cannot be multiplied (64x2048 and 512x4096)
+stevenzrihen@Els-MacBook-Pro ~ % 

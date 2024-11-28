@@ -1,0 +1,176 @@
+Last login: Tue Nov 26 01:00:01 on ttys005
+stevenzrihen@Els-MacBook-Pro ~ % python3.11 /Users/stevenzrihen/Downloads/vg11_exp3.py 
+Files already downloaded and verified
+Files already downloaded and verified
+
+Experiment 3: Larger Kernel Sizes (5x5)
+
+Starting Training...
+
+Epoch [1/10] in progress...
+Epoch [1/10], Batch [0/782], Loss: 2.3108
+Epoch [1/10], Batch [100/782], Loss: 1.7749
+Epoch [1/10], Batch [200/782], Loss: 1.4179
+Epoch [1/10], Batch [300/782], Loss: 1.3639
+Epoch [1/10], Batch [400/782], Loss: 1.2781
+Epoch [1/10], Batch [500/782], Loss: 1.0560
+Epoch [1/10], Batch [600/782], Loss: 1.2902
+Epoch [1/10], Batch [700/782], Loss: 1.0207
+Epoch [1/10] Completed. Average Loss: 1.3727
+
+Epoch [2/10] in progress...
+Epoch [2/10], Batch [0/782], Loss: 0.9975
+Epoch [2/10], Batch [100/782], Loss: 1.0191
+Epoch [2/10], Batch [200/782], Loss: 0.9501
+Epoch [2/10], Batch [300/782], Loss: 1.0961
+Epoch [2/10], Batch [400/782], Loss: 0.8450
+Epoch [2/10], Batch [500/782], Loss: 0.8799
+Epoch [2/10], Batch [600/782], Loss: 0.8655
+Epoch [2/10], Batch [700/782], Loss: 0.9520
+Epoch [2/10] Completed. Average Loss: 0.9382
+
+Epoch [3/10] in progress...
+Epoch [3/10], Batch [0/782], Loss: 0.6379
+Epoch [3/10], Batch [100/782], Loss: 0.6886
+Epoch [3/10], Batch [200/782], Loss: 0.9526
+Epoch [3/10], Batch [300/782], Loss: 0.7365
+Epoch [3/10], Batch [400/782], Loss: 0.5604
+Epoch [3/10], Batch [500/782], Loss: 0.8147
+Epoch [3/10], Batch [600/782], Loss: 0.7458
+Epoch [3/10], Batch [700/782], Loss: 0.5999
+Epoch [3/10] Completed. Average Loss: 0.7469
+
+Epoch [4/10] in progress...
+Epoch [4/10], Batch [0/782], Loss: 0.6771
+Epoch [4/10], Batch [100/782], Loss: 0.5360
+Epoch [4/10], Batch [200/782], Loss: 0.6014
+Epoch [4/10], Batch [300/782], Loss: 0.6225
+Epoch [4/10], Batch [400/782], Loss: 0.5007
+Epoch [4/10], Batch [500/782], Loss: 0.4479
+Epoch [4/10], Batch [600/782], Loss: 0.5405
+Epoch [4/10], Batch [700/782], Loss: 0.6174
+Epoch [4/10] Completed. Average Loss: 0.6139
+
+Epoch [5/10] in progress...
+Epoch [5/10], Batch [0/782], Loss: 0.4497
+Epoch [5/10], Batch [100/782], Loss: 0.3039
+Epoch [5/10], Batch [200/782], Loss: 0.4116
+Epoch [5/10], Batch [300/782], Loss: 0.4564
+Epoch [5/10], Batch [400/782], Loss: 0.5774
+Epoch [5/10], Batch [500/782], Loss: 0.4304
+Epoch [5/10], Batch [600/782], Loss: 0.6761
+Epoch [5/10], Batch [700/782], Loss: 0.4052
+Epoch [5/10] Completed. Average Loss: 0.5179
+
+Epoch [6/10] in progress...
+Epoch [6/10], Batch [0/782], Loss: 0.5005
+Epoch [6/10], Batch [100/782], Loss: 0.3922
+Epoch [6/10], Batch [200/782], Loss: 0.3096
+Epoch [6/10], Batch [300/782], Loss: 0.3738
+Epoch [6/10], Batch [400/782], Loss: 0.4416
+Epoch [6/10], Batch [500/782], Loss: 0.4788
+Epoch [6/10], Batch [600/782], Loss: 0.7527
+Epoch [6/10], Batch [700/782], Loss: 0.1881
+Epoch [6/10] Completed. Average Loss: 0.4293
+
+Epoch [7/10] in progress...
+Epoch [7/10], Batch [0/782], Loss: 0.2543
+Epoch [7/10], Batch [100/782], Loss: 0.3467
+Epoch [7/10], Batch [200/782], Loss: 0.2513
+Epoch [7/10], Batch [300/782], Loss: 0.2567
+Epoch [7/10], Batch [400/782], Loss: 0.1957
+Epoch [7/10], Batch [500/782], Loss: 0.7061
+Epoch [7/10], Batch [600/782], Loss: 0.5419
+Epoch [7/10], Batch [700/782], Loss: 0.3360
+Epoch [7/10] Completed. Average Loss: 0.3493
+
+Epoch [8/10] in progress...
+Epoch [8/10], Batch [0/782], Loss: 0.3079
+Epoch [8/10], Batch [100/782], Loss: 0.3018
+Epoch [8/10], Batch [200/782], Loss: 0.2945
+Epoch [8/10], Batch [300/782], Loss: 0.1660
+Epoch [8/10], Batch [400/782], Loss: 0.2668
+Epoch [8/10], Batch [500/782], Loss: 0.2176
+Epoch [8/10], Batch [600/782], Loss: 0.1628
+Epoch [8/10], Batch [700/782], Loss: 0.2467
+Epoch [8/10] Completed. Average Loss: 0.2903
+
+Epoch [9/10] in progress...
+Epoch [9/10], Batch [0/782], Loss: 0.3812
+Epoch [9/10], Batch [100/782], Loss: 0.3990
+Epoch [9/10], Batch [200/782], Loss: 0.1658
+Epoch [9/10], Batch [300/782], Loss: 0.2040
+Epoch [9/10], Batch [400/782], Loss: 0.2181
+Epoch [9/10], Batch [500/782], Loss: 0.3137
+Epoch [9/10], Batch [600/782], Loss: 0.2503
+Epoch [9/10], Batch [700/782], Loss: 0.2937
+Epoch [9/10] Completed. Average Loss: 0.2422
+
+Epoch [10/10] in progress...
+Epoch [10/10], Batch [0/782], Loss: 0.1653
+Epoch [10/10], Batch [100/782], Loss: 0.2443
+Epoch [10/10], Batch [200/782], Loss: 0.2242
+Epoch [10/10], Batch [300/782], Loss: 0.3173
+Epoch [10/10], Batch [400/782], Loss: 0.2085
+Epoch [10/10], Batch [500/782], Loss: 0.1262
+Epoch [10/10], Batch [600/782], Loss: 0.1066
+Epoch [10/10], Batch [700/782], Loss: 0.3185
+Epoch [10/10] Completed. Average Loss: 0.1912
+
+Starting Evaluation...
+Evaluating Batch [0/157]...
+Evaluating Batch [50/157]...
+Evaluating Batch [100/157]...
+Evaluating Batch [150/157]...
+
+Evaluation Results:
+Accuracy: 0.80
+Precision: 0.81
+Recall: 0.80
+F1 Score: 0.80
+Confusion Matrix:
+[[911   7  26  11  14   4   3   3  17   4]
+ [ 32 889   3   2   2   0   6   0  34  32]
+ [ 69   0 734  18  84  32  45  14   3   1]
+ [ 25   2  76 491 126 121 100  25  20  14]
+ [ 13   1  28   9 899  10  19  16   4   1]
+ [ 15   4  53  77  96 677  35  26   9   8]
+ [  7   0  33  16  34   6 887   6   7   4]
+ [ 19   1  26  12  75  21   6 833   3   4]
+ [ 90   6   9   4   6   1   5   1 875   3]
+ [ 82  74   8   5   5   2   4   4  24 792]]
+
+Experiment 3: Smaller Kernel Sizes (2x2)
+Traceback (most recent call last):
+  File "/Users/stevenzrihen/Downloads/vg11_exp3.py", line 165, in <module>
+    model_with_small_kernels = VGG11Experiment3(kernel_size=2)
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/stevenzrihen/Downloads/vg11_exp3.py", line 61, in __init__
+    self._rebuild_classifier()
+  File "/Users/stevenzrihen/Downloads/vg11_exp3.py", line 67, in _rebuild_classifier
+    output = self.features(dummy_input)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/torch/nn/modules/module.py", line 1511, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/torch/nn/modules/module.py", line 1520, in _call_impl
+    return forward_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/torch/nn/modules/container.py", line 217, in forward
+    input = module(input)
+            ^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/torch/nn/modules/module.py", line 1511, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/torch/nn/modules/module.py", line 1520, in _call_impl
+    return forward_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/torch/nn/modules/batchnorm.py", line 175, in forward
+    return F.batch_norm(
+           ^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/torch/nn/functional.py", line 2480, in batch_norm
+    _verify_batch_size(input.size())
+  File "/usr/local/lib/python3.11/site-packages/torch/nn/functional.py", line 2448, in _verify_batch_size
+    raise ValueError(f"Expected more than 1 value per channel when training, got input size {size}")
+ValueError: Expected more than 1 value per channel when training, got input size torch.Size([1, 512, 1, 1])
+stevenzrihen@Els-MacBook-Pro ~ % 

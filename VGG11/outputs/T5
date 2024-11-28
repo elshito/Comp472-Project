@@ -1,0 +1,142 @@
+Last login: Tue Nov 26 01:35:34 on ttys004
+stevenzrihen@Els-MacBook-Pro ~ % python3.11 /Users/stevenzrihen/Downloads/vg11_exp3_smaller\ \(10\).py 
+Files already downloaded and verified
+Files already downloaded and verified
+
+Experiment 3: Smaller Kernel Sizes (3x3)
+
+Starting Training...
+
+Epoch [1/10] in progress...
+Epoch [1/10], Batch [0/782], Loss: 2.2933
+pEpoch [1/10], Batch [100/782], Loss: 1.6476
+Epoch [1/10], Batch [200/782], Loss: 1.4202
+Epoch [1/10], Batch [300/782], Loss: 1.4584
+Epoch [1/10], Batch [400/782], Loss: 1.1476
+Epoch [1/10], Batch [500/782], Loss: 1.0568
+Epoch [1/10], Batch [600/782], Loss: 1.0003
+Epoch [1/10], Batch [700/782], Loss: 1.2012
+Epoch [1/10] Completed. Average Loss: 1.2813
+
+Epoch [2/10] in progress...
+Epoch [2/10], Batch [0/782], Loss: 0.6205
+Epoch [2/10], Batch [100/782], Loss: 1.0771
+Epoch [2/10], Batch [200/782], Loss: 0.9609
+Epoch [2/10], Batch [300/782], Loss: 0.8699
+Epoch [2/10], Batch [400/782], Loss: 0.8530
+Epoch [2/10], Batch [500/782], Loss: 0.7469
+Epoch [2/10], Batch [600/782], Loss: 0.7604
+Epoch [2/10], Batch [700/782], Loss: 1.0725
+Epoch [2/10] Completed. Average Loss: 0.8247
+
+Epoch [3/10] in progress...
+Epoch [3/10], Batch [0/782], Loss: 0.7843
+Epoch [3/10], Batch [100/782], Loss: 0.7607
+Epoch [3/10], Batch [200/782], Loss: 0.7025
+Epoch [3/10], Batch [300/782], Loss: 0.7303
+Epoch [3/10], Batch [400/782], Loss: 0.6541
+Epoch [3/10], Batch [500/782], Loss: 0.5792
+Epoch [3/10], Batch [600/782], Loss: 0.3660
+Epoch [3/10], Batch [700/782], Loss: 0.5344
+Epoch [3/10] Completed. Average Loss: 0.6377
+
+Epoch [4/10] in progress...
+Epoch [4/10], Batch [0/782], Loss: 0.6317
+Epoch [4/10], Batch [100/782], Loss: 0.4125
+Epoch [4/10], Batch [200/782], Loss: 0.5192
+Epoch [4/10], Batch [300/782], Loss: 0.4688
+Epoch [4/10], Batch [400/782], Loss: 0.5436
+Epoch [4/10], Batch [500/782], Loss: 0.5887
+Epoch [4/10], Batch [600/782], Loss: 0.3697
+Epoch [4/10], Batch [700/782], Loss: 0.5527
+Epoch [4/10] Completed. Average Loss: 0.5161
+
+Epoch [5/10] in progress...
+Epoch [5/10], Batch [0/782], Loss: 0.3404
+Epoch [5/10], Batch [100/782], Loss: 0.2929
+Epoch [5/10], Batch [200/782], Loss: 0.4152
+Epoch [5/10], Batch [300/782], Loss: 0.2876
+Epoch [5/10], Batch [400/782], Loss: 0.3817
+Epoch [5/10], Batch [500/782], Loss: 0.3324
+Epoch [5/10], Batch [600/782], Loss: 0.3154
+Epoch [5/10], Batch [700/782], Loss: 0.4707
+Epoch [5/10] Completed. Average Loss: 0.4200
+
+Epoch [6/10] in progress...
+Epoch [6/10], Batch [0/782], Loss: 0.3927
+Epoch [6/10], Batch [100/782], Loss: 0.2621
+Epoch [6/10], Batch [200/782], Loss: 0.5803
+Epoch [6/10], Batch [300/782], Loss: 0.1812
+Epoch [6/10], Batch [400/782], Loss: 0.2841
+Epoch [6/10], Batch [500/782], Loss: 0.2388
+Epoch [6/10], Batch [600/782], Loss: 0.2981
+Epoch [6/10], Batch [700/782], Loss: 0.3250
+Epoch [6/10] Completed. Average Loss: 0.3321
+
+Epoch [7/10] in progress...
+Epoch [7/10], Batch [0/782], Loss: 0.1467
+Epoch [7/10], Batch [100/782], Loss: 0.2699
+Epoch [7/10], Batch [200/782], Loss: 0.1090
+Epoch [7/10], Batch [300/782], Loss: 0.2365
+Epoch [7/10], Batch [400/782], Loss: 0.3460
+Epoch [7/10], Batch [500/782], Loss: 0.3525
+Epoch [7/10], Batch [600/782], Loss: 0.1510
+Epoch [7/10], Batch [700/782], Loss: 0.1551
+Epoch [7/10] Completed. Average Loss: 0.2706
+
+Epoch [8/10] in progress...
+Epoch [8/10], Batch [0/782], Loss: 0.1685
+Epoch [8/10], Batch [100/782], Loss: 0.2657
+Epoch [8/10], Batch [200/782], Loss: 0.4560
+Epoch [8/10], Batch [300/782], Loss: 0.1609
+Epoch [8/10], Batch [400/782], Loss: 0.3289
+Epoch [8/10], Batch [500/782], Loss: 0.1528
+Epoch [8/10], Batch [600/782], Loss: 0.2859
+Epoch [8/10], Batch [700/782], Loss: 0.0486
+Epoch [8/10] Completed. Average Loss: 0.2167
+
+Epoch [9/10] in progress...
+Epoch [9/10], Batch [0/782], Loss: 0.1203
+Epoch [9/10], Batch [100/782], Loss: 0.1278
+Epoch [9/10], Batch [200/782], Loss: 0.0929
+Epoch [9/10], Batch [300/782], Loss: 0.0555
+Epoch [9/10], Batch [400/782], Loss: 0.1299
+Epoch [9/10], Batch [500/782], Loss: 0.1795
+Epoch [9/10], Batch [600/782], Loss: 0.1497
+Epoch [9/10], Batch [700/782], Loss: 0.2449
+Epoch [9/10] Completed. Average Loss: 0.1782
+
+Epoch [10/10] in progress...
+Epoch [10/10], Batch [0/782], Loss: 0.0467
+Epoch [10/10], Batch [100/782], Loss: 0.1050
+Epoch [10/10], Batch [200/782], Loss: 0.2469
+Epoch [10/10], Batch [300/782], Loss: 0.1343
+Epoch [10/10], Batch [400/782], Loss: 0.2367
+Epoch [10/10], Batch [500/782], Loss: 0.1606
+Epoch [10/10], Batch [600/782], Loss: 0.3003
+Epoch [10/10], Batch [700/782], Loss: 0.0477
+Epoch [10/10] Completed. Average Loss: 0.1442
+
+Starting Evaluation...
+Evaluating Batch [0/157]...
+Evaluating Batch [50/157]...
+Evaluating Batch [100/157]...
+Evaluating Batch [150/157]...
+
+Evaluation Results:
+Accuracy: 0.82
+Precision: 0.82
+Recall: 0.82
+F1 Score: 0.82
+Confusion Matrix:
+[[812   6  48  25  21   7  19   9  40  13]
+ [  7 883   0   2   4   3  23   6  22  50]
+ [ 30   0 767  32  41  46  64  16   3   1]
+ [  7   3  45 595  49 150 109  36   3   3]
+ [  2   1  46  31 793  28  47  47   5   0]
+ [  2   1  29  84  34 762  35  51   0   2]
+ [  2   0  21  14  10   8 941   2   1   1]
+ [  6   2  13  19  24  32  10 890   1   3]
+ [ 30   7  14  14   2  10  19   3 887  14]
+ [ 17  37   3  11   2   4  23   9  19 875]]
+stevenzrihen@Els-MacBook-Pro ~ % p
